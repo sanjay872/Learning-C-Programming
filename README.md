@@ -1,8 +1,8 @@
 # Learning-Embedded-Programming
 
 # C Programming
-    All important concepts in C.
-    File Look Order
-    - Helloworld
-    - DataType
-    - GetInputs
+All important concepts in C.
+File Look Order
+- Helloworld
+- DataType
+- GetInputs
