@@ -7,3 +7,10 @@ File Look Order:
 - whyPointerdataType
 - arithmeticInPointer
 - voidPointer
+- addressLeak
+- arraysArePointer
+- stringAndPointers
+- args
+- argsOfArrayVsPointersArray
+- PointersAndFunctions
+- pointersToFunctions
